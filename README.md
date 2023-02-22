@@ -1,7 +1,7 @@
 ### <img width="120px" height="90px" src="https://media2.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e4702ue33lgw5q427gjlprq0ilj71t874w8k3l51t9v&rid=giphy.gif&ct=s">Hello eveyone.  I am Mirjalol Bakhtiyorov. I am full stack developer.
    <br><br><br><br><br><br><br><br>
                         ### Languages and tools I work with: <br>
-                        <img  height="80px" width="80px" src="https://codeberryschool.com/blog/wp-content/uploads/2022/03/htmlbackgroundcover.png " alt="" srcset="">
+                        <img  height="80px" width="80px" src="https://cdn3d.iconscout.com/3d/free/thumb/html-5728485-4781249.png" srcset="">
                         <img  height="80px" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXV-j7EqBmAElByw1_0nu4AJPKPoaIcC423g&usqp=CAU" alt="" srcset="">
                         <img  height="80px" width="80px" src="https://www.graycelltech.com/wp-content/uploads/2019/12/Sass-saves-time-alot-Graycelltech1.png">
                         <img  height="80px" width="80px"  src="https://icons.getbootstrap.com/assets/img/icons-hero.png">
