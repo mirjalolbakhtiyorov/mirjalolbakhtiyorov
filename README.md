@@ -7,8 +7,7 @@
                         <img  height="80px" width="80px"  src="https://icons.getbootstrap.com/assets/img/icons-hero.png">
                         <img height="80px" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5WNIV_tRCwN5YRY2KDKyRITfgZhIU02o-FL94WHkuJZVo4mugY3W4SmEU4rcd7B6AEp4&usqp=CAU" alt="" srcset="">
                         <img  height="80px" width="80px" src="https://e7.pngegg.com/pngimages/605/134/png-clipart-eclipse-c-integrated-development-environment-arduino-linux-c-s-text-trademark-thumbnail.png">
-
-                       </span>
+</span>
 
    <br><br><br>
 <p style="color: brown; font-size: 25px; font-weight: bolder; text-align: center;"> Contact me </p>
