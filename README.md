@@ -1,7 +1,7 @@
 ### <img width="120px" height="90px" src="https://media2.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e4702ue33lgw5q427gjlprq0ilj71t874w8k3l51t9v&rid=giphy.gif&ct=s">Hello eveyone.  I am Mirjalol Bakhtiyorov. I am full stack developer.
    <br><br><br><br><br><br><br><br>
                         Languages and tools I work with: <br>
-                        <img  height="100px" width="100px" src="https://www.blog.itone.uz/wp-content/uploads/2021/10/HTML5.png" alt="" srcset="">
+                        <img  height="100px" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png?20170517184425" alt="" srcset="">
                         <img  height="100px" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXV-j7EqBmAElByw1_0nu4AJPKPoaIcC423g&usqp=CAU" alt="">
                         <img height="100px" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5WNIV_tRCwN5YRY2KDKyRITfgZhIU02o-FL94WHkuJZVo4mugY3W4SmEU4rcd7B6AEp4&usqp=CAU" alt="" srcset="">
 
