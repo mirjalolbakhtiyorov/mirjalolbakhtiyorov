@@ -3,9 +3,8 @@
   
    <span><img  height="80px" width="80px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png"></span>
                         <span><img  height="80px" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXV-j7EqBmAElByw1_0nu4AJPKPoaIcC423g&usqp=CAU"></span>
-                        <span><img  height="80px" width="80px" src=" https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png"></span>
-                        <span><img  height="85px" width="110px"  src="https://icons.getbootstrap.com/assets/img/icons-hero.png"></span>
-                        <span><img height="80px" width="80px" src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLrZcVn94bzqCKI2YgO0R57QnQMnESfLBqb-MemJXa8kz1e6m0eeCmzeqWJv8o9HKjpTw&usqp=CAU"></span>
+                            <span><img  height="85px" width="110px"  src="https://icons.getbootstrap.com/assets/img/icons-hero.png"></span>
+                        <span><img height="80px" width="80px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png"></span>
                    
 
                     
