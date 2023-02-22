@@ -1,11 +1,11 @@
 ### <img width="120px" height="90px" src="https://media2.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e4702ue33lgw5q427gjlprq0ilj71t874w8k3l51t9v&rid=giphy.gif&ct=s">Hello eveyone.  I am Mirjalol Bakhtiyorov. I am full stack developer.
      
                         Languages and tools I work with: <br>
-                        <img  height="80px" width="80px" src="https://codeberryschool.com/blog/wp-content/uploads/2022/03/htmlbackgroundcover.png " alt="" srcset="">
-                        <img  height="80px" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXV-j7EqBmAElByw1_0nu4AJPKPoaIcC423g&usqp=CAU" alt="" srcset="">
+                        <img  height="80px" width="80px" src="https://codeberryschool.com/blog/wp-content/uploads/2022/03/htmlbackgroundcover.png ">
+                        <img  height="80px" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXV-j7EqBmAElByw1_0nu4AJPKPoaIcC423g&usqp=CAU">
                         <img  height="80px" width="80px" src="https://www.graycelltech.com/wp-content/uploads/2019/12/Sass-saves-time-alot-Graycelltech1.png">
                         <img  height="80px" width="80px"  src="https://icons.getbootstrap.com/assets/img/icons-hero.png">
-                        <img height="80px" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5WNIV_tRCwN5YRY2KDKyRITfgZhIU02o-FL94WHkuJZVo4mugY3W4SmEU4rcd7B6AEp4&usqp=CAU" alt="" srcset="">
+                        <img height="80px" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5WNIV_tRCwN5YRY2KDKyRITfgZhIU02o-FL94WHkuJZVo4mugY3W4SmEU4rcd7B6AEp4&usqp=CAU">
                         <img  height="80px" width="80px" src="https://e7.pngegg.com/pngimages/605/134/png-clipart-eclipse-c-integrated-development-environment-arduino-linux-c-s-text-trademark-thumbnail.png">
 
 
