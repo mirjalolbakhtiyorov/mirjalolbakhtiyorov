@@ -1,4 +1,4 @@
-###
+### <img width="90px" height="100px" src="https://media2.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e4702ue33lgw5q427gjlprq0ilj71t874w8k3l51t9v&rid=giphy.gif&ct=s"> I am Mirjalol Bakhtiyorov. I am full stack developer.
 
 <p style="color: brown; font-size: 25px; font-weight: bolder; text-align: center;"> Contact me </p>
   <span>
