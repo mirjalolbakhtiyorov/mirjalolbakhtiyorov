@@ -1,4 +1,4 @@
-### <img width="120px" height="90px" src="https://media3.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif?cid=ecf05e478al1hx2hdrj5pdyy4v006wu1zz9bgbqwhx0trujv&rid=giphy.gif&ct=s">Hello eveyone.  I am Mirjalol Bakhtiyorov. I am full stack developer.
+### <img width="120px" height="90px" src="https://media3.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif?cid=ecf05e478al1hx2hdrj5pdyy4v006wu1zz9bgbqwhx0trujv&rid=giphy.gif&ct=s">Hello everyone.  I am Mirjalol Bakhtiyorov. I am full stack developer.
   
   
    <span><img  height="80px" width="80px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png"></span>
