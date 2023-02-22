@@ -4,7 +4,7 @@
    <span><img  height="80px" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png"></span>
                         <span><img  height="80px" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXV-j7EqBmAElByw1_0nu4AJPKPoaIcC423g&usqp=CAU"></span>
                         <span><img  height="80px" width="80px" src="https://www.graycelltech.com/wp-content/uploads/2019/12/Sass-saves-time-alot-Graycelltech1.png"></span>
-                        <span><img  height="80px" width="80px"  src="https://icons.getbootstrap.com/assets/img/icons-hero.png"></span>
+                        <span><img  height="80px" width="110px"  src="https://icons.getbootstrap.com/assets/img/icons-hero.png"></span>
                         <span><img height="80px" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5WNIV_tRCwN5YRY2KDKyRITfgZhIU02o-FL94WHkuJZVo4mugY3W4SmEU4rcd7B6AEp4&usqp=CAU"></span>
                      <span>   <img  height="80px" width="80px" src="https://e7.pngegg.com/pngimages/605/134/png-clipart-eclipse-c-integrated-development-environment-arduino-linux-c-s-text-trademark-thumbnail.png"></span>
 
