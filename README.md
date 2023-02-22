@@ -5,8 +5,8 @@
                         <span><img  height="80px" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXV-j7EqBmAElByw1_0nu4AJPKPoaIcC423g&usqp=CAU"></span>
                         <span><img  height="80px" width="80px" src=" https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png"></span>
                         <span><img  height="85px" width="110px"  src="https://icons.getbootstrap.com/assets/img/icons-hero.png"></span>
-                        <span><img height="80px" width="80px" src=" https://cdn3d.iconscout.com/3d/free/thumb/javascript-logo-6563586-5453022.png"></span>
-                     <span>   <img  height="80px" width="80px" src="https://e7.pngegg.com/pngimages/605/134/png-clipart-eclipse-c-integrated-development-environment-arduino-linux-c-s-text-trademark-thumbnail.png"></span>
+                        <span><img height="80px" width="80px" src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLrZcVn94bzqCKI2YgO0R57QnQMnESfLBqb-MemJXa8kz1e6m0eeCmzeqWJv8o9HKjpTw&usqp=CAU"></span>
+                   
 
                     
 <p style="color: brown; font-size: 25px; font-weight: bolder; text-align: center;"> Contact me </p>
