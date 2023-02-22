@@ -4,9 +4,9 @@
                         <img  height="100px" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png?20170517184425" alt="" srcset="">
                         <img  height="100px" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXV-j7EqBmAElByw1_0nu4AJPKPoaIcC423g&usqp=CAU" alt="">
                         
-                                         <img  height="100px" width="100px" src=" https://www.graycelltech.com/wp-content/uploads/2019/12/Sass-saves-time-alot-Graycelltech1.png " alt="">
+                                         <img  height="100px" width="100px" src=" https://www.graycelltech.com/wp-content/uploads/2019/12/Sass-saves-time-alot-Graycelltech1.png">
         
-                        <img height="100px" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5WNIV_tRCwN5YRY2KDKyRITfgZhIU02o-FL94WHkuJZVo4mugY3W4SmEU4rcd7B6AEp4&usqp=CAU" alt="" srcset="">
+                        <img height="100px" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5WNIV_tRCwN5YRY2KDKyRITfgZhIU02o-FL94WHkuJZVo4mugY3W4SmEU4rcd7B6AEp4&usqp=CAU">
 
 
 
